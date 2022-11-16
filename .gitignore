@@ -20,3 +20,5 @@ theme-cache
 
 logs
 .env
+/datahubdemoconsumer.mpr.bak
+/datahubdemoconsumer.mpr.lock
